@@ -1,4 +1,4 @@
-{"icecream":[
+[
 	{
 		"id":1,
 		"name": "Dark Chocolate",
@@ -23,4 +23,4 @@
 		"Price": 300,
 		"Stock": 8
 	},
-]}
+]
